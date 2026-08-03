@@ -194,7 +194,11 @@ Military\_Analysis\_Project/
 
 
 
-!\[Military Operations Heatmap](military-operations-analysis/images/heatmap.png)
+!\[Military Operations Heatmap](military-operations-analysis/images/Heatmap.png)
+
+
+
+\---
 
 
 
