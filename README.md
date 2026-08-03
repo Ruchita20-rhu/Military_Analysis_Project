@@ -10,7 +10,7 @@
 
 
 
-\# 📖 Project Overview
+\## 📖 Project Overview
 
 
 
@@ -26,7 +26,7 @@ Using \*\*Python\*\* for data processing and \*\*Power BI\*\* for interactive vi
 
 
 
-\# 🎯 Project Objectives
+\## 🎯 Project Objectives
 
 
 
@@ -48,13 +48,13 @@ Using \*\*Python\*\* for data processing and \*\*Power BI\*\* for interactive vi
 
 
 
-\# 🛠️ Technology Stack
+\## 🛠️ Technology Stack
 
 
 
 | Category | Technologies |
 
-|----------|--------------|
+| -------- | ------------ |
 
 | Programming Language | Python |
 
@@ -74,11 +74,11 @@ Using \*\*Python\*\* for data processing and \*\*Power BI\*\* for interactive vi
 
 
 
-\# 📂 Project Structure
+\## 📂 Project Structure
 
 
 
-```
+```text
 
 Military\_Analysis\_Project/
 
@@ -130,7 +130,7 @@ Military\_Analysis\_Project/
 
 
 
-\# 🚀 Features
+\## 🚀 Features
 
 
 
@@ -158,11 +158,11 @@ Military\_Analysis\_Project/
 
 
 
-\# 📊 Dashboard Preview
+\## 📊 Dashboard Preview
 
 
 
-\## Power BI Dashboard
+\### Power BI Dashboard
 
 
 
@@ -174,11 +174,11 @@ Military\_Analysis\_Project/
 
 
 
-\# 📈 Python Visualizations
+\## 📈 Python Visualizations
 
 
 
-\## Mission Success Rate Analysis
+\### Mission Success Rate Analysis
 
 
 
@@ -186,7 +186,7 @@ Military\_Analysis\_Project/
 
 
 
-\## Military Operations Heatmap
+\### Military Operations Heatmap
 
 
 
@@ -198,13 +198,13 @@ Military\_Analysis\_Project/
 
 
 
-\# 📋 Key Insights
+\## 📋 Key Insights
 
 
 
-\- Identified mission success trends across different military operations.
+\- Identified mission success trends across military operations.
 
-\- Compared operational performance across various regions.
+\- Compared operational performance across different regions.
 
 \- Visualized mission success rates using Python.
 
@@ -218,11 +218,11 @@ Military\_Analysis\_Project/
 
 
 
-\# ⚙️ Installation
+\## ⚙️ Installation
 
 
 
-\## 1. Clone the Repository
+\### 1. Clone the Repository
 
 
 
@@ -234,7 +234,7 @@ git clone https://github.com/Ruchita20-rhu/Military\_Analysis\_Project.git
 
 
 
-\## 2. Navigate to the Project Directory
+\### 2. Navigate to the Project Directory
 
 
 
@@ -246,7 +246,7 @@ cd Military\_Analysis\_Project
 
 
 
-\## 3. Install Required Dependencies
+\### 3. Install Required Dependencies
 
 
 
@@ -258,7 +258,7 @@ pip install -r military-operations-analysis/requirements.txt
 
 
 
-\## 4. Run the Analysis
+\### 4. Run the Analysis
 
 
 
@@ -274,7 +274,7 @@ python military-operations-analysis/src/military\_analysis.py
 
 
 
-\# 📈 Results
+\## 📈 Results
 
 
 
@@ -300,7 +300,7 @@ This project successfully demonstrates:
 
 
 
-\# 💼 Skills Demonstrated
+\## 💼 Skills Demonstrated
 
 
 
@@ -318,7 +318,9 @@ This project successfully demonstrates:
 
 \- Data Visualization
 
-\- Power BI Dashboard Development
+\- Power BI
+
+\- Dashboard Development
 
 \- Git \& GitHub
 
@@ -330,7 +332,7 @@ This project successfully demonstrates:
 
 
 
-\# 🔮 Future Enhancements
+\## 🔮 Future Enhancements
 
 
 
@@ -350,11 +352,11 @@ This project successfully demonstrates:
 
 
 
-\# 👩‍💻 Author
+\## 👩‍💻 Author
 
 
 
-\## Ruchita Salunkhe
+\### Ruchita Salunkhe
 
 
 
@@ -390,7 +392,7 @@ https://github.com/Ruchita20-rhu
 
 
 
-\# 🤝 Contributing
+\## 🤝 Contributing
 
 
 
@@ -406,15 +408,13 @@ Feel free to fork this repository and submit a pull request.
 
 
 
-\# ⭐ Support
+\## ⭐ Support
 
 
 
-If you found this project useful, consider giving it a \*\*⭐ Star\*\* on GitHub.
+If you found this project useful, please consider giving it a \*\*⭐ Star\*\* on GitHub.
 
 
 
 Your support motivates me to build and share more data analytics projects.
-
-
 
