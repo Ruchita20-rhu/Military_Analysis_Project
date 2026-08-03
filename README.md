@@ -1,420 +1,210 @@
-\# 🪖 Military Operations Analysis
+# 🪖 Military Operations Analysis
 
+> **An end-to-end Data Analytics project built with Python and Power BI to analyze military operational data, uncover mission performance trends, and generate actionable insights through interactive dashboards and visualizations.**
 
+---
 
-> \*\*An end-to-end Data Analytics project built with Python and Power BI to analyze military operational data, uncover mission performance trends, and generate actionable insights through interactive dashboards and visualizations.\*\*
-
-
-
-\---
-
-
-
-\## 📖 Project Overview
-
-
+## 📖 Project Overview
 
 This project demonstrates a complete data analytics workflow, including data generation, preprocessing, exploratory data analysis (EDA), statistical analysis, visualization, and dashboard development.
 
+Using **Python** for data processing and **Power BI** for interactive visualization, the project transforms raw military operational data into meaningful insights that support data-driven decision-making.
 
+---
 
-Using \*\*Python\*\* for data processing and \*\*Power BI\*\* for interactive visualization, the project transforms raw military operational data into meaningful insights that support data-driven decision-making.
+## 🎯 Project Objectives
 
+- Analyze military operational datasets
+- Clean and preprocess raw data
+- Perform Exploratory Data Analysis (EDA)
+- Identify mission performance trends
+- Build an interactive Power BI dashboard
+- Generate actionable insights for decision-making
 
+---
 
-\---
-
-
-
-\## 🎯 Project Objectives
-
-
-
-\- Analyze military operational datasets
-
-\- Clean and preprocess raw data
-
-\- Perform Exploratory Data Analysis (EDA)
-
-\- Identify mission performance trends
-
-\- Build an interactive Power BI dashboard
-
-\- Generate actionable insights for decision-making
-
-
-
-\---
-
-
-
-\## 🛠️ Technology Stack
-
-
+## 🛠️ Technology Stack
 
 | Category | Technologies |
-
 | -------- | ------------ |
-
 | Programming Language | Python |
-
 | Data Analysis | Pandas, NumPy |
-
 | Data Visualization | Matplotlib |
-
 | Dashboard | Power BI |
-
 | Dataset | CSV |
+| Version Control | Git & GitHub |
 
-| Version Control | Git \& GitHub |
+---
 
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-
+## 📂 Project Structure
 
 ```text
-
-Military\_Analysis\_Project/
-
+Military_Analysis_Project/
 │
-
 ├── military-operations-analysis/
-
 │   ├── dashboards/
-
 │   │   └── dashboard.pbix
-
 │   │
-
 │   ├── data/
-
-│   │   └── military\_data.csv
-
+│   │   └── military_data.csv
 │   │
-
 │   ├── images/
-
 │   │   ├── dashboard.png
-
-│   │   ├── mission\_success\_rate.png
-
+│   │   ├── mission_success_rate.png
 │   │   └── Heatmap.png
-
 │   │
-
 │   ├── src/
-
-│   │   ├── generate\_military\_data.py
-
-│   │   └── military\_analysis.py
-
+│   │   ├── generate_military_data.py
+│   │   └── military_analysis.py
 │   │
-
 │   └── requirements.txt
-
 │
-
 └── README.md
-
 ```
 
+---
 
+## 🚀 Features
 
-\---
+- ✅ Data Cleaning & Preprocessing
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Statistical Analysis
+- ✅ Data Visualization using Python
+- ✅ Interactive Power BI Dashboard
+- ✅ Mission Performance Analysis
+- ✅ Mission Success Rate Analysis
+- ✅ Heatmap Visualization
+- ✅ KPI Monitoring & Trend Analysis
 
+---
 
+## 📊 Dashboard Preview
 
-\## 🚀 Features
+### Power BI Dashboard
 
+![Power BI Dashboard](military-operations-analysis/images/dashboard.png)
 
+---
 
-\- ✅ Data Cleaning \& Preprocessing
+## 📈 Python Visualizations
 
-\- ✅ Exploratory Data Analysis (EDA)
+### Mission Success Rate Analysis
 
-\- ✅ Statistical Analysis
+![Mission Success Rate](military-operations-analysis/images/mission_success_rate.png)
 
-\- ✅ Data Visualization using Python
+### Military Operations Heatmap
 
-\- ✅ Interactive Power BI Dashboard
+![Military Operations Heatmap](military-operations-analysis/images/Heatmap.png)
 
-\- ✅ Mission Performance Analysis
+---
 
-\- ✅ Mission Success Rate Analysis
+## 📋 Key Insights
 
-\- ✅ Heatmap Visualization
+- Identified mission success trends across military operations.
+- Compared operational performance across different regions.
+- Visualized mission success rates using Python.
+- Developed an interactive Power BI dashboard for KPI monitoring.
+- Generated actionable insights to support data-driven decision-making.
 
-\- ✅ KPI Monitoring \& Trend Analysis
+---
 
+## ⚙️ Installation
 
-
-\---
-
-
-
-\## 📊 Dashboard Preview
-
-
-
-\### Power BI Dashboard
-
-
-
-!\[Power BI Dashboard](military-operations-analysis/images/dashboard.png)
-
-
-
-\---
-
-
-
-\## 📈 Python Visualizations
-
-
-
-\### Mission Success Rate Analysis
-
-
-
-!\[Mission Success Rate](military-operations-analysis/images/mission\_success\_rate.png)
-
-
-
-\### Military Operations Heatmap
-
-
-
-!\[Military Operations Heatmap](military-operations-analysis/images/Heatmap.png)
-
-
-
-\---
-
-
-
-\## 📋 Key Insights
-
-
-
-\- Identified mission success trends across military operations.
-
-\- Compared operational performance across different regions.
-
-\- Visualized mission success rates using Python.
-
-\- Developed an interactive Power BI dashboard for KPI monitoring.
-
-\- Generated actionable insights to support data-driven decision-making.
-
-
-
-\---
-
-
-
-\## ⚙️ Installation
-
-
-
-\### 1. Clone the Repository
-
-
+### 1. Clone the Repository
 
 ```bash
-
-git clone https://github.com/Ruchita20-rhu/Military\_Analysis\_Project.git
-
+git clone https://github.com/Ruchita20-rhu/Military_Analysis_Project.git
 ```
 
-
-
-\### 2. Navigate to the Project Directory
-
-
+### 2. Navigate to the Project Directory
 
 ```bash
-
-cd Military\_Analysis\_Project
-
+cd Military_Analysis_Project
 ```
 
-
-
-\### 3. Install Required Dependencies
-
-
+### 3. Install Required Dependencies
 
 ```bash
-
 pip install -r military-operations-analysis/requirements.txt
-
 ```
 
-
-
-\### 4. Run the Analysis
-
-
+### 4. Run the Analysis
 
 ```bash
-
-python military-operations-analysis/src/military\_analysis.py
-
+python military-operations-analysis/src/military_analysis.py
 ```
 
+---
 
-
-\---
-
-
-
-\## 📈 Results
-
-
+## 📈 Results
 
 This project successfully demonstrates:
 
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Mission Performance Evaluation
+- Regional Performance Comparison
+- Interactive Dashboard Development
+- Python-Based Data Visualization
 
+---
 
-\- Data Cleaning \& Preprocessing
+## 💼 Skills Demonstrated
 
-\- Exploratory Data Analysis (EDA)
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Power BI
+- Dashboard Development
+- Git & GitHub
+- Analytical Thinking
 
-\- Mission Performance Evaluation
+---
 
-\- Regional Performance Comparison
+## 🔮 Future Enhancements
 
-\- Interactive Dashboard Development
+- Machine Learning-based Mission Success Prediction
+- Real-time Data Integration
+- Automated Report Generation
+- Streamlit Web Dashboard
+- Advanced Predictive Analytics
 
-\- Python-Based Data Visualization
+---
 
+## 👩‍💻 Author
 
+### Ruchita Salunkhe
 
-\---
+**M.Sc. Computer Science (Blockchain Technology)**
 
+### Technical Skills
 
+- Python
+- SQL
+- Power BI
+- Data Analytics
+- Machine Learning
+- Blockchain
 
-\## 💼 Skills Demonstrated
-
-
-
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Data Cleaning
-
-\- Exploratory Data Analysis (EDA)
-
-\- Statistical Analysis
-
-\- Data Visualization
-
-\- Power BI
-
-\- Dashboard Development
-
-\- Git \& GitHub
-
-\- Analytical Thinking
-
-
-
-\---
-
-
-
-\## 🔮 Future Enhancements
-
-
-
-\- Machine Learning-based Mission Success Prediction
-
-\- Real-time Data Integration
-
-\- Automated Report Generation
-
-\- Streamlit Web Dashboard
-
-\- Advanced Predictive Analytics
-
-
-
-\---
-
-
-
-\## 👩‍💻 Author
-
-
-
-\### Ruchita Salunkhe
-
-
-
-\*\*M.Sc. Computer Science (Blockchain Technology)\*\*
-
-
-
-\### Technical Skills
-
-
-
-\- Python
-
-\- SQL
-
-\- Power BI
-
-\- Data Analytics
-
-\- Machine Learning
-
-\- Blockchain
-
-
-
-\*\*GitHub:\*\*  
-
+**GitHub:**  
 https://github.com/Ruchita20-rhu
 
+---
 
-
-\---
-
-
-
-\## 🤝 Contributing
-
-
+## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
-
-
 Feel free to fork this repository and submit a pull request.
 
+---
 
+## ⭐ Support
 
-\---
-
-
-
-\## ⭐ Support
-
-
-
-If you found this project useful, please consider giving it a \*\*⭐ Star\*\* on GitHub.
-
-
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
 
 Your support motivates me to build and share more data analytics projects.
-
